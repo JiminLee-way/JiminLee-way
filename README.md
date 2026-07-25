@@ -1,16 +1,29 @@
-## Hi there 👋
-
 <!--
-**JiminLee-way/JiminLee-way** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Copy this file to README.md in the public GitHub repository:
+JiminLee-way/JiminLee-way
 -->
+
+<div align="center">
+
+<h1>JIMIN LEE</h1>
+
+<p><strong>Cybersecurity Researcher / AI Security Conductor</strong></p>
+
+<a href="https://jiminlee-way.github.io/#ai-usage">
+  <img
+    src="https://jiminlee-way.github.io/assets/generated/ai-usage.svg"
+    width="800"
+    alt="AI compute telemetry showing measurement start date, total tokens, estimated cost, and recent usage"
+  />
+</a>
+
+<p><sub>Self-reported from local Codex and Claude Code logs. Cost is estimated from model list prices and is not actual billing.</sub></p>
+
+<p>
+  <a href="https://jiminlee-way.github.io/">Portfolio</a> ·
+  <a href="https://jiminlee-way.github.io/projects/">Projects</a> ·
+  <a href="https://jiminlee-way.github.io/publications/">Publications</a> ·
+  <a href="https://jiminlee-way.github.io/cve-kve/">CVE/KVE</a>
+</p>
+
+</div>
