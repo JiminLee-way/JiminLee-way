@@ -17,7 +17,7 @@ JiminLee-way/JiminLee-way
   />
 </a>
 
-<p><sub>Self-reported from local Codex and Claude Code logs. Cost is estimated from model list prices and is not actual billing.</sub></p>
+<p><sub>Self-reported from local Codex and Claude Code logs and xAI usage exports. Cost is estimated from model list prices and is not actual billing.</sub></p>
 
 <p>
   <a href="https://jiminlee-way.github.io/">Portfolio</a> ·
