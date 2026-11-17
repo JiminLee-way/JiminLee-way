@@ -9,9 +9,9 @@ JiminLee-way/JiminLee-way
 
 <p><strong>Cybersecurity Researcher / AI Security Conductor</strong></p>
 
-<a href="https://jiminlee-way.github.io/#ai-usage">
+<a href="https://lastdance.kr/#ai-usage">
   <img
-    src="https://jiminlee-way.github.io/assets/generated/ai-usage.svg"
+    src="https://lastdance.kr/assets/generated/ai-usage.svg"
     width="800"
     alt="AI compute telemetry showing measurement start date, total tokens, estimated cost, and recent usage"
   />
@@ -20,10 +20,10 @@ JiminLee-way/JiminLee-way
 <p><sub>Self-reported from local Codex and Claude Code logs and xAI usage exports. Cost is estimated from model list prices and is not actual billing.</sub></p>
 
 <p>
-  <a href="https://jiminlee-way.github.io/">Portfolio</a> ·
-  <a href="https://jiminlee-way.github.io/projects/">Projects</a> ·
-  <a href="https://jiminlee-way.github.io/publications/">Publications</a> ·
-  <a href="https://jiminlee-way.github.io/cve-kve/">CVE/KVE</a>
+  <a href="https://lastdance.kr/">Portfolio</a> ·
+  <a href="https://lastdance.kr/projects/">Projects</a> ·
+  <a href="https://lastdance.kr/publications/">Publications</a> ·
+  <a href="https://lastdance.kr/activities/#disclosures">CVE/KVE</a>
 </p>
 
 </div>
